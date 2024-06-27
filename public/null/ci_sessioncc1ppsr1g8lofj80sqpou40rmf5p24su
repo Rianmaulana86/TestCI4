@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1719468688;_ci_previous_url|s:43:"http://localhost:8080/index.php/user/3/edit";message|s:103:"The email field must contain a unique value.The password field must be at least 6 characters in length.";__ci_vars|a:2:{s:7:"message";s:3:"old";s:9:"alertType";s:3:"old";}alertType|s:5:"error";
